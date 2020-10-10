@@ -14,9 +14,9 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://www.tiktok.com/node/share/discover | jq . > discover-www.json
-        curl https://m.tiktok.com/node/share/discover | jq . > discover-m.json
-        curl https://t.tiktok.com/node/share/discover | jq . > discover-t.json
+        curl -H 'cookie: tt_webid=6975244404352881414; tt_webid_v2=6975244404352881414; adblock=0' -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15' https://www.tiktok.com/node/share/discover | jq . > discover-www.json
+        curl -H 'cookie: tt_webid=6975244404352881414; tt_webid_v2=6975244404352881414; adblock=0' -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15' https://m.tiktok.com/node/share/discover | jq . > discover-m.json
+        curl -H 'cookie: tt_webid=6975244404352881414; tt_webid_v2=6975244404352881414; adblock=0' -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15' https://t.tiktok.com/node/share/discover | jq . > discover-t.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
