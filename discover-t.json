@@ -61,7 +61,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 38200000,
-              "likes": "599200000",
+              "likes": "599300000",
               "userId": "6748458643983238149",
               "secUid": "MS4wLjABAAAAIQGNoHByQvokcLbWCGnIfas0OV2nctsZnRFbN7eB04xt-9usrHe3UvXJRZLxBWlJ",
               "relation": -1
@@ -655,7 +655,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 12300000,
-              "likes": "384100000",
+              "likes": "384200000",
               "userId": "6746417382892176389",
               "secUid": "MS4wLjABAAAAwOIa5vSA9Qy40SlT9q4Y9LhCTR__vPTjLQ06IAjfcGlC8NPTplo-RjwW0ljl0jsw",
               "relation": -1
@@ -673,7 +673,188 @@
       }
     },
     {
-      "exploreList": [],
+      "exploreList": [
+        {
+          "cardItem": {
+            "id": "240332",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/8df418e332116f3af66fe390caa334e2",
+            "title": "#worldseries",
+            "subTitle": "499.1M views",
+            "description": "The World Series is here, and we love October baseball. So whether you're rooting from your couch, practicing a curveball, or chasing a trophy, show us how you're getting in the #WorldSeries spirit.",
+            "link": "/tag/worldseries",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "499100000",
+              "challengeId": "240332",
+              "challengeName": "worldseries"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "1032690",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/5918e2604355a1d53efcf6807c57e039",
+            "title": "#gaminglife",
+            "subTitle": "789M views",
+            "description": "From gaming setups, to cosplay, collections and esports, show us what makes you a gamer with #GamingLife.",
+            "link": "/tag/gaminglife",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "789000000",
+              "challengeId": "1032690",
+              "challengeName": "gaminglife"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "1620988433995781",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/da968fe97b9b23c8ad57d41b94fa8bc4",
+            "title": "#lgbtqhistory",
+            "subTitle": "17.8M views",
+            "description": "This October we're commemorating LGBTQ+ History Month, which means it's a perfect time to look back and recognize the incredible impact that the LGBTQ+ community has had on history on a local, national and international level. We're partnering up with the North American Queer Festival Association, so show us mini documentaries about the LGBTQ+ icons who made a difference in your life.\n\nLearn more at NAQFA.org.",
+            "link": "/tag/lgbtqhistory",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "17800000",
+              "challengeId": "1620988433995781",
+              "challengeName": "lgbtqhistory"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "1613234579980293",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/2498fc7cba33091eb85a8138ed87d7f4",
+            "title": "#horrortok",
+            "subTitle": "1.5B views",
+            "description": "Turn off the lights and pull up your covers: #HorrorTok is here.",
+            "link": "/tag/horrortok",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "1500000000",
+              "challengeId": "1613234579980293",
+              "challengeName": "horrortok"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "438891",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/b20aa0c07fccdaf41a61c74523235b31",
+            "title": "#problemsolved",
+            "subTitle": "1.4B views",
+            "description": "Dealing with a problem? Here's an easy solution.",
+            "link": "/tag/problemsolved",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "1400000000",
+              "challengeId": "438891",
+              "challengeName": "problemsolved"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "32637",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/1636726516517894.JPEG",
+            "title": "#skatelife",
+            "subTitle": "2.1B views",
+            "description": "Ollie into the new season.",
+            "link": "/tag/skatelife",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "2100000000",
+              "challengeId": "32637",
+              "challengeName": "skatelife"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "21406",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/d6cb189e76abbb821d8acc92a09a9ae9",
+            "title": "#thriftshop",
+            "subTitle": "1.1B views",
+            "description": "Show us your best second-hand hauls.",
+            "link": "/tag/thriftshop",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "1100000000",
+              "challengeId": "21406",
+              "challengeName": "thriftshop"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "81483675",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/3f91e686fddcb7dc7817cb648271abca",
+            "title": "#spookytreats",
+            "subTitle": "1.8B views",
+            "description": "Whether you are hoarding candy, or cooking the perfect cookie, we want to see all the #SpookyTreats.",
+            "link": "/tag/spookytreats",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "1800000000",
+              "challengeId": "81483675",
+              "challengeName": "spookytreats"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "1673108450412550",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/1eda61740915b08b369866c664c07753",
+            "title": "#dracotok",
+            "subTitle": "3.5B views",
+            "description": "Calling TikTok Muggles, it’s your time to shine. POV, you're walking down the corridor and you bump into Malfoy... If you're lucky, Draco (or should we say Tom Felton) might even respond to your #DracoTok.",
+            "link": "/tag/dracotok",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "3500000000",
+              "challengeId": "1673108450412550",
+              "challengeName": "dracotok"
+            }
+          },
+          "videoList": []
+        }
+      ],
       "pageState": {
         "regionAppId": 1233,
         "os": "mac",
