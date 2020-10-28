@@ -61,7 +61,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 39500000,
-              "likes": "648200000",
+              "likes": "648300000",
               "userId": "6748458643983238149",
               "secUid": "MS4wLjABAAAAIQGNoHByQvokcLbWCGnIfas0OV2nctsZnRFbN7eB04xt-9usrHe3UvXJRZLxBWlJ",
               "relation": -1
@@ -105,7 +105,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 17700000,
-              "likes": "987800000",
+              "likes": "987900000",
               "userId": "6775033566016963589",
               "secUid": "MS4wLjABAAAAt0f_-5VFQSVpQ19iDpehvCPN4UgDV-Y6SOYicZxKDjgKfKzUdnRZFTDe3GMdiGJd",
               "relation": -1
@@ -171,7 +171,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 8100000,
-              "likes": "174000000",
+              "likes": "174100000",
               "userId": "6722559512831755270",
               "secUid": "MS4wLjABAAAAVsZ7cMf2HTpabISTVskzOr2r8kv65wsc68ePNoEQiFQY18AVTmY-PmGXWH2eSU2D",
               "relation": -1
@@ -215,7 +215,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 23500000,
-              "likes": "910900000",
+              "likes": "911000000",
               "userId": "7119601",
               "secUid": "MS4wLjABAAAALJEOFGMMb1NGn73hAlyCaNThVNS4NE9WfE-T4JA_mtg",
               "relation": -1
@@ -281,7 +281,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 38600000,
-              "likes": "853700000",
+              "likes": "853800000",
               "userId": "21609287",
               "secUid": "MS4wLjABAAAAC5mIlEsDQSlfaWV6PSINVnfJOJz-eGhbAffi9TDrURw",
               "relation": -1
@@ -325,7 +325,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 7700000,
-              "likes": "241100000",
+              "likes": "241200000",
               "userId": "6813630187164533765",
               "secUid": "MS4wLjABAAAAOc-TrMCOI1gJwgKEJGzjfD2yX7DNxjjjRxMzQD6F6NizVT6f5fMfvBWf6r9vTk71",
               "relation": -1
@@ -545,7 +545,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 5200000,
-              "likes": "346800000",
+              "likes": "346900000",
               "userId": "6633503451764916230",
               "secUid": "MS4wLjABAAAAzbF6IBx-W0xyGU5L3mkIOWxzj_SG6HMPimz-RVXRv4Q3a2wohtnHSo4qXjfXxD8n",
               "relation": -1
@@ -589,7 +589,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 16500000,
-              "likes": "657700000",
+              "likes": "657800000",
               "userId": "100481652413403136",
               "secUid": "MS4wLjABAAAAb5pDtGWPwD-auGsAwB0D54bny8bLj-Fva3PI9NtSdg7kNLsUneU1nFasTk0uzI-L",
               "relation": -1
@@ -676,18 +676,38 @@
       "exploreList": [
         {
           "cardItem": {
+            "id": "3047122",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/f66e2063eab1f41c69ed76cd94784076",
+            "title": "#youwantmore",
+            "subTitle": "24.4M views",
+            "description": "We're celebrating K/DA's latest track with Ahri, Evelynn, Akali, and Kai'Sa. Whether you're showing us your best moves, transforming into your baddest self, or just prepping for K/DA's Worlds 2020 performance, listen to &quot;MORE&quot; and show us those moments where #YouWantMore.\n\nAnd be sure to go behind the scenes and watch the &quot;MORE&quot; music video LIVE on TikTok on Wednesday, October 28th at 10am ET / 7am PT.",
+            "link": "/tag/youwantmore",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "24400000",
+              "challengeId": "3047122",
+              "challengeName": "youwantmore"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
             "id": "867871",
             "type": 3,
             "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/a5be52b6f3ea62093898c4092efdb376",
             "title": "#mycostume",
-            "subTitle": "815.5M views",
+            "subTitle": "831.5M views",
             "description": "What are you dressing as this year?",
             "link": "/tag/mycostume",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "815500000",
+              "views": "831500000",
               "challengeId": "867871",
               "challengeName": "mycostume"
             }
@@ -779,14 +799,14 @@
             "id": "57419989",
             "type": 3,
             "title": "#oneyourthere",
-            "subTitle": "326.6K views",
+            "subTitle": "329.8K views",
             "description": "",
             "link": "/tag/oneyourthere",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "326600",
+              "views": "329800",
               "challengeId": "57419989",
               "challengeName": "oneyourthere"
             }
@@ -809,26 +829,6 @@
               "views": "11700000000",
               "challengeId": "1582562928207885",
               "challengeName": "tiktokfood"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "487705",
-            "type": 3,
-            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/95157da3f6cc298a1dd2893bccd6a326",
-            "title": "#interiordesign",
-            "subTitle": "2.8B views",
-            "description": "Whether you're renovating your room, or just setting out new decor, show us everything #InteriorDesign.",
-            "link": "/tag/interiordesign",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "2800000000",
-              "challengeId": "487705",
-              "challengeName": "interiordesign"
             }
           },
           "videoList": []
@@ -915,7 +915,7 @@
           "cardItem": {
             "id": "6810951570629330945",
             "type": 1,
-            "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-0000/ccfa5adaac2444c5aa151154bc1abcaf~100x100.jpeg?x-expires=1603915940&x-signature=7lujL8aCO7KtGJ2AE76%2FUGVu3xc%3D",
+            "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-0000/ccfa5adaac2444c5aa151154bc1abcaf~100x100.jpeg?x-expires=1603917499&x-signature=R02G6FZQbgqhJhEUhIkcvRlAMjc%3D",
             "title": "Chicago Freestyle - Remix",
             "subTitle": "472.1K videos",
             "description": "Losfrms800",
@@ -926,7 +926,7 @@
             "extraInfo": {
               "musicId": "6810951570629330945",
               "playUrl": [
-                "https://v16m.tiktokcdn.com/d96ec13511a120eadc0951adead8767b/5f99d0a4/video/n/tiktok-obj/905e069e2735c946db2ae7481a02a6e0.m4a/"
+                "https://v16m.tiktokcdn.com/310c5db374558be3b3c6a0fce8012fb5/5f99d6bb/video/n/tiktok-obj/905e069e2735c946db2ae7481a02a6e0.m4a/"
               ],
               "posts": 472100
             }
