@@ -544,7 +544,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 909600,
+              "fans": 909700,
               "likes": "3400000",
               "userId": "6808629884060566534",
               "secUid": "MS4wLjABAAAASwk0fpsKRZdHIxbv99ao5se9Cwex89xfoxD4eMUpEsIPF-moKgxsMeKtse-qPMPq",
@@ -610,8 +610,8 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 93200,
-              "likes": "303700",
+              "fans": 93300,
+              "likes": "303800",
               "userId": "6761765948623045637",
               "secUid": "MS4wLjABAAAA60vq51oxB9OlfiSMfihnGwklis95aYeAYGaufWZn5rOZ4n_zi0qjU476pl8VciIW",
               "relation": -1
@@ -644,7 +644,7 @@
           "cardItem": {
             "id": "6774025992342045701",
             "type": 2,
-            "cover": "https://p77-sign-sg.tiktokcdn.com/musically-maliva-obj/1663656694255621~c5_100x100.jpeg?x-expires=1604671200&x-signature=VX2VjY9ZMX5whJarXFa0JBGeGZ4%3D",
+            "cover": "https://p16-sign-sg.tiktokcdn.com/musically-maliva-obj/1663656694255621~c5_100x100.jpeg?x-expires=1604671200&x-signature=DLKej2TQy6q42HJFAM%2BpHP2BsSM%3D",
             "title": "OR",
             "subTitle": "@olivier_rousteing",
             "description": "Hello it’s Olivier : BALMAIN CREATIVE DIRECTOR \nFollow my journey on TikTok ❤️",
@@ -674,6 +674,26 @@
     },
     {
       "exploreList": [
+        {
+          "cardItem": {
+            "id": "23251440",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/2d906c435da9d47e3d4430f65491432e",
+            "title": "#myrecommendation",
+            "subTitle": "8.9M views",
+            "description": "What's your recommendation?",
+            "link": "/tag/myrecommendation",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "8900000",
+              "challengeId": "23251440",
+              "challengeName": "myrecommendation"
+            }
+          },
+          "videoList": []
+        },
         {
           "cardItem": {
             "id": "13103457",
@@ -760,14 +780,14 @@
             "type": 3,
             "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/ecd81e5ef2730efc80ed8331f29dc4a1",
             "title": "#movember2020",
-            "subTitle": "114.4M views",
+            "subTitle": "114.7M views",
             "description": "We're partnering with Movember to raise funds and awareness for men's health, and we want to see how your #Movember2020 is going. So show us your mustache, tell us why men's health awareness is important to you, and join us this Movember by making a difference. Learn more about Movember here: www.movember.com",
             "link": "/tag/movember2020",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "114400000",
+              "views": "114700000",
               "challengeId": "1667367404926997",
               "challengeName": "movember2020"
             }
@@ -780,56 +800,16 @@
             "type": 3,
             "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/989bbf30ecf37936a7644456a0d19e4d",
             "title": "#diadelosmuertos",
-            "subTitle": "129.2M views",
+            "subTitle": "129.3M views",
             "description": "¡Feliz #DiaDeLosMuertos!",
             "link": "/tag/diadelosmuertos",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "129200000",
+              "views": "129300000",
               "challengeId": "1428194",
               "challengeName": "diadelosmuertos"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "72009033",
-            "type": 3,
-            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/ce3a17d8c2c1391812e3cb81b1414917",
-            "title": "#nativefamily",
-            "subTitle": "7.6M views",
-            "description": "From celebrating local traditions, to cooking the classics, and spending time with family, we're celebrating our incredible Native and Indigenous communities on TikTok. From creators pushing for change, to artists pushing boundaries, here's to our #NativeFamily.",
-            "link": "/tag/nativefamily",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "7600000",
-              "challengeId": "72009033",
-              "challengeName": "nativefamily"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "457289",
-            "type": 3,
-            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/02e29311a992401d026f09c689a821dc",
-            "title": "#happyhalloween",
-            "subTitle": "3.8B views",
-            "description": "Happy Halloween!",
-            "link": "/tag/happyhalloween",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "3800000000",
-              "challengeId": "457289",
-              "challengeName": "happyhalloween"
             }
           },
           "videoList": []
