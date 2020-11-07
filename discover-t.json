@@ -148,8 +148,8 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 16500000,
-              "likes": "794800000",
+              "fans": 16600000,
+              "likes": "794900000",
               "userId": "2016966",
               "secUid": "MS4wLjABAAAAmoNbGE1hK35aHETeqWsE-sOdq-9I23OjZHTjFlgJwwg",
               "relation": -1
@@ -193,7 +193,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 15200000,
-              "likes": "934300000",
+              "likes": "934400000",
               "userId": "6718275242529620998",
               "secUid": "MS4wLjABAAAA9IA5QPJGoF1WP91rmv2-slf5yxWYZAjgdDrXUDAR5D2_1KyduM1nmwPqUbaNHq47",
               "relation": -1
@@ -413,7 +413,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 12900000,
-              "likes": "413100000",
+              "likes": "413200000",
               "userId": "6746417382892176389",
               "secUid": "MS4wLjABAAAAwOIa5vSA9Qy40SlT9q4Y9LhCTR__vPTjLQ06IAjfcGlC8NPTplo-RjwW0ljl0jsw",
               "relation": -1
@@ -479,7 +479,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 10700000,
-              "likes": "159800000",
+              "likes": "159900000",
               "userId": "6864320287262540806",
               "secUid": "MS4wLjABAAAAOdQG_-7zS4-FKDO5YbQrmPcN80IvFXDyD2rV5aLQJYfBqDW4zJppR1rTS1ZvH0Rq",
               "relation": -1
@@ -673,7 +673,148 @@
       }
     },
     {
-      "exploreList": [],
+      "exploreList": [
+        {
+          "cardItem": {
+            "id": "21054105",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/ef030e1fc598e97af4634f98bd716e85",
+            "title": "#neonshadow",
+            "subTitle": "49.8M views",
+            "description": "Use our new Creative Effect and add a #NeonShadow to your life.",
+            "link": "/tag/neonshadow",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "49800000",
+              "challengeId": "21054105",
+              "challengeName": "neonshadow"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "1778930",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/72782c9b4b0233511a50250c01e22c52",
+            "title": "#myhobby",
+            "subTitle": "144.9M views",
+            "description": "What's you hobby?",
+            "link": "/tag/myhobby",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "144900000",
+              "challengeId": "1778930",
+              "challengeName": "myhobby"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "1682567717902341",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/62e2916353e7b063ae2b6f28737dc498",
+            "title": "#familyimpression",
+            "subTitle": "678.5M views",
+            "description": "Whether it's your family acting like you for a day, or you doing your best impression of your relatives, show us your #FamilyImpression.",
+            "link": "/tag/familyimpression",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "678500000",
+              "challengeId": "1682567717902341",
+              "challengeName": "familyimpression"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "1064957",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/c6970e09fd3ae7ca9d097671874d41ec",
+            "title": "#fallfashion",
+            "subTitle": "1.4B views",
+            "description": "Cold weather is here, so pull on a sweater and show us your #FallFashion.",
+            "link": "/tag/fallfashion",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "1400000000",
+              "challengeId": "1064957",
+              "challengeName": "fallfashion"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "23251440",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/2d906c435da9d47e3d4430f65491432e",
+            "title": "#myrecommendation",
+            "subTitle": "1.4B views",
+            "description": "What's your recommendation?",
+            "link": "/tag/myrecommendation",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "1400000000",
+              "challengeId": "23251440",
+              "challengeName": "myrecommendation"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "13103457",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/f47686d52451ae57168cd2eea0955836",
+            "title": "#homeoffice",
+            "subTitle": "1.9B views",
+            "description": "Whether you're organizing your workspace or sharing tips for working from home, we're here for everything #HomeOffice.",
+            "link": "/tag/homeoffice",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "1900000000",
+              "challengeId": "13103457",
+              "challengeName": "homeoffice"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "1616029764656133",
+            "type": 3,
+            "cover": "https://p16-va-default.akamaized.net/obj/musically-maliva-obj/ee9ef4553d3598d23fdc15025e6b037b",
+            "title": "#carsoftiktok",
+            "subTitle": "4.5B views",
+            "description": "Hit the gas and show us what's under the hood.",
+            "link": "/tag/carsoftiktok",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "4500000000",
+              "challengeId": "1616029764656133",
+              "challengeName": "carsoftiktok"
+            }
+          },
+          "videoList": []
+        }
+      ],
       "pageState": {
         "regionAppId": 1233,
         "os": "mac",
@@ -757,7 +898,7 @@
             "type": 1,
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/ccfa5adaac2444c5aa151154bc1abcaf.jpeg",
             "title": "Chicago Freestyle - Remix",
-            "subTitle": "468.9K videos",
+            "subTitle": "469K videos",
             "description": "Losfrms800",
             "link": "/music/Chicago-Freestyle-Remix-6810951570629330945",
             "round": false,
@@ -768,7 +909,7 @@
               "playUrl": [
                 "https://sf16-sg.tiktokcdn.com/obj/tiktok-obj/905e069e2735c946db2ae7481a02a6e0.m4a"
               ],
-              "posts": 468900
+              "posts": 469000
             }
           },
           "videoList": []
