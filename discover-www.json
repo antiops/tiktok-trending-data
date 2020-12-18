@@ -600,7 +600,7 @@
           "cardItem": {
             "id": "6761765948623045637",
             "type": 2,
-            "cover": "https://p58-sign-sg.tiktokcdn.com/musically-maliva-obj/1653252654031877~c5_100x100.jpeg?x-expires=1608397200&x-signature=A8R36qn8F9Du6PJu7kZpeoOANL4%3D",
+            "cover": "https://p16-sign-sg.tiktokcdn.com/musically-maliva-obj/1653252654031877~c5_100x100.jpeg?x-expires=1608397200&x-signature=dej1sh7eaT%2F81NkTAP9Gc%2Fc9lyE%3D",
             "title": "JW Anderson",
             "subTitle": "@jw_anderson",
             "description": "#JWAnderson\nJW Anderson\nLondon Store - 2 Brewer Street, London W1F 0S",
@@ -644,7 +644,7 @@
           "cardItem": {
             "id": "6774025992342045701",
             "type": 2,
-            "cover": "https://p16-sign-sg.tiktokcdn.com/musically-maliva-obj/1663656694255621~c5_100x100.jpeg?x-expires=1608397200&x-signature=Wkr3vwjj2EFQo37KibTZ4GggawA%3D",
+            "cover": "https://p77-sign-sg.tiktokcdn.com/musically-maliva-obj/1663656694255621~c5_100x100.jpeg?x-expires=1608397200&x-signature=b2XKPkvEz7aAV%2BX7qlaHR0iicWk%3D",
             "title": "OR",
             "subTitle": "@olivier_rousteing",
             "description": "Hello it’s Olivier : BALMAIN CREATIVE DIRECTOR \nFollow my journey on TikTok ❤️",
@@ -676,18 +676,38 @@
       "exploreList": [
         {
           "cardItem": {
+            "id": "40299472",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bb6405091db43e1f7d016b0af91e4996",
+            "title": "#artmas",
+            "subTitle": "29.7M views",
+            "description": "Calling all artists! Show us what you're working on with #Artmas.",
+            "link": "/tag/artmas",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "29700000",
+              "challengeId": "40299472",
+              "challengeName": "artmas"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
             "id": "8288112",
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/056eca259fd67a4bec65f2c437f9ce93",
             "title": "#haventseen",
-            "subTitle": "944.1M views",
+            "subTitle": "977.7M views",
             "description": "Use our new Text-to-Speech feature and show us photos that we need to see.",
             "link": "/tag/haventseen",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "944100000",
+              "views": "977700000",
               "challengeId": "8288112",
               "challengeName": "haventseen"
             }
@@ -700,14 +720,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/caed6abdadf99f7eb4e4ea4b6ee229db",
             "title": "#planttiktok",
-            "subTitle": "550M views",
+            "subTitle": "566.9M views",
             "description": "Here's to all the plant parents on TikTok.",
             "link": "/tag/planttiktok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "550000000",
+              "views": "566900000",
               "challengeId": "1633205167622149",
               "challengeName": "planttiktok"
             }
@@ -760,14 +780,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bbe2a54079f442e1710bc4d8f5cd63cd",
             "title": "#gamenight",
-            "subTitle": "434.2M views",
+            "subTitle": "434.8M views",
             "description": "Pick up your controllers, grab your dice, and get ready for #GameNight. Just try not to rage quit.",
             "link": "/tag/gamenight",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "434200000",
+              "views": "434800000",
               "challengeId": "151344",
               "challengeName": "gamenight"
             }
@@ -830,45 +850,6 @@
               "views": "9100000000",
               "challengeId": "7567",
               "challengeName": "goodmorning"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "54309190",
-            "type": 3,
-            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b7cc7dcf681f7922c7f8864034d85d41",
-            "title": "#raisedby",
-            "subTitle": "1.6B views",
-            "description": "Shoutout to all the people we were #RaisedBy.",
-            "link": "/tag/raisedby",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "1600000000",
-              "challengeId": "54309190",
-              "challengeName": "raisedby"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "980981",
-            "type": 3,
-            "title": "#watchingxfactor",
-            "subTitle": "76K views",
-            "description": "",
-            "link": "/tag/watchingxfactor",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "76000",
-              "challengeId": "980981",
-              "challengeName": "watchingxfactor"
             }
           },
           "videoList": []
