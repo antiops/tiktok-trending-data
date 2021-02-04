@@ -40,7 +40,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 18500000,
-              "likes": "904300000",
+              "likes": "904500000",
               "userId": "6767621542903940102",
               "secUid": "MS4wLjABAAAATgYdLA-PXFk2Qhhj7M0RHp84HIpPU-7FHMn5fUXpg5HyYT0LzB0nIj4Ep2Rz6Wp5",
               "relation": -1,
@@ -131,8 +131,8 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 9500000,
-              "likes": "232300000",
+              "fans": 9600000,
+              "likes": "232500000",
               "userId": "6576121525962735622",
               "secUid": "MS4wLjABAAAAEPSopPKnql_72WmbhQo7I_f9MCKE77dmi5HyRvRXPMlfd_v_D65CzSHgU0hj_Jzn",
               "relation": -1,
@@ -155,7 +155,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 8600000,
-              "likes": "761900000",
+              "likes": "762000000",
               "userId": "6633503451764916230",
               "secUid": "MS4wLjABAAAAzbF6IBx-W0xyGU5L3mkIOWxzj_SG6HMPimz-RVXRv4Q3a2wohtnHSo4qXjfXxD8n",
               "relation": -1,
@@ -201,7 +201,7 @@
             "extraInfo": {
               "verified": false,
               "fans": 10300000,
-              "likes": "187200000",
+              "likes": "187300000",
               "userId": "6832705390443365381",
               "secUid": "MS4wLjABAAAAGOZ3JVuISjArxjkItNPW5B2K9y1hlIsxUssOGzn_aEnSKidP7BB3z_aU00w_Kfpj",
               "relation": -1,
@@ -270,7 +270,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 4300000,
-              "likes": "239500000",
+              "likes": "239700000",
               "userId": "6565170509783334918",
               "secUid": "MS4wLjABAAAA73uGt8j9y-NUpymMS_kmS3jdQXmLnflKCMkxbxSxyEOTrZYSmNNr22mX6vuBJ6lZ",
               "relation": -1,
@@ -339,7 +339,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 6400000,
-              "likes": "184800000",
+              "likes": "185000000",
               "userId": "6669716864531054598",
               "secUid": "MS4wLjABAAAAAzAz4PbZuttUx6tq4zteYqIXUwmEo28tPfZ5Wub03WbE0VA1X-DSH-KrZ3Kf7PMx",
               "relation": -1,
@@ -362,7 +362,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 14400000,
-              "likes": "695000000",
+              "likes": "695100000",
               "userId": "6813630187164533765",
               "secUid": "MS4wLjABAAAAOc-TrMCOI1gJwgKEJGzjfD2yX7DNxjjjRxMzQD6F6NizVT6f5fMfvBWf6r9vTk71",
               "relation": -1,
@@ -500,7 +500,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 42700000,
-              "likes": "972900000",
+              "likes": "973000000",
               "userId": "21609287",
               "secUid": "MS4wLjABAAAAC5mIlEsDQSlfaWV6PSINVnfJOJz-eGhbAffi9TDrURw",
               "relation": -1,
@@ -569,7 +569,7 @@
             "extraInfo": {
               "verified": false,
               "fans": 4800000,
-              "likes": "100700000",
+              "likes": "100800000",
               "userId": "6573613596759539718",
               "secUid": "MS4wLjABAAAAJ_ghirVqjPenT1uETxkYl_ZN736PVEZ_R4VhXVmNAf9cNNzGomvWIR1SBDmKjHc-",
               "relation": -1,
@@ -638,7 +638,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 7900000,
-              "likes": "166700000",
+              "likes": "166800000",
               "userId": "6689853951518737414",
               "secUid": "MS4wLjABAAAAJ1mMLhFaCd92Xesh4Sd4SeeGjTFp9pFvUqpIGs3mQsPEJCSpHf5YnVVUPbydFszP",
               "relation": -1,
@@ -706,18 +706,58 @@
       "exploreList": [
         {
           "cardItem": {
+            "id": "18592600",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7ba4314a4d328d61065de6e080b59554",
+            "title": "#womeninsports",
+            "subTitle": "79.4M views",
+            "description": "We're putting the spotlight on all the incredible #WomenInSports on TikTok!",
+            "link": "/tag/womeninsports",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "79400000",
+              "challengeId": "18592600",
+              "challengeName": "womeninsports"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "1660061348699142",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/589f0fec576088a47b3fd2f769b57f01",
+            "title": "#fetapasta",
+            "subTitle": "91.9M views",
+            "description": "Show us your #FetaPasta recipe.",
+            "link": "/tag/fetapasta",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "91900000",
+              "challengeId": "1660061348699142",
+              "challengeName": "fetapasta"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
             "id": "2095071",
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ea047345091b9ab3912b10c922489189",
             "title": "#albumcover",
-            "subTitle": "559M views",
+            "subTitle": "560.3M views",
             "description": "Anything can be an #AlbumCover.",
             "link": "/tag/albumcover",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "559000000",
+              "views": "560300000",
               "challengeId": "2095071",
               "challengeName": "albumcover"
             }
@@ -730,14 +770,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e945c92fb8807195dbd864504d21ef2c",
             "title": "#stepbystep",
-            "subTitle": "971.9M views",
+            "subTitle": "975.2M views",
             "description": "Whether it's a recipe to a perfect meal or instructions to your favorite DIY project, show us how things are made, #StepByStep.",
             "link": "/tag/stepbystep",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "971900000",
+              "views": "975200000",
               "challengeId": "66491",
               "challengeName": "stepbystep"
             }
@@ -750,14 +790,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8b0ebb34e9cdda5ce48fbfda3e20896c",
             "title": "#makeblackhistory",
-            "subTitle": "510.9M views",
+            "subTitle": "511.8M views",
             "description": "Celebrating the breadth, depth and beauty of Blackness past, present and future. Here’s to all the people who #MakeBlackHistory each and every day.",
             "link": "/tag/makeblackhistory",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "510900000",
+              "views": "511800000",
               "challengeId": "1625665181655046",
               "challengeName": "makeblackhistory"
             }
@@ -770,14 +810,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1342904f170e5d3125531603b3a974b6",
             "title": "#relationshipstorytime",
-            "subTitle": "244.5M views",
+            "subTitle": "245.9M views",
             "description": "What's your love story? Tell us with #RelationshipStorytime.",
             "link": "/tag/relationshipstorytime",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "244500000",
+              "views": "245900000",
               "challengeId": "1661804758249478",
               "challengeName": "relationshipstorytime"
             }
@@ -789,14 +829,14 @@
             "id": "271192",
             "type": 3,
             "title": "#favoriteslippers",
-            "subTitle": "180K views",
+            "subTitle": "180.3K views",
             "description": "",
             "link": "/tag/favoriteslippers",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "180000",
+              "views": "180300",
               "challengeId": "271192",
               "challengeName": "favoriteslippers"
             }
@@ -829,56 +869,16 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a7a8ca07695443091be83bbfc98b3a00",
             "title": "#emophase",
-            "subTitle": "381M views",
+            "subTitle": "381.9M views",
             "description": "We all went through an #emophase ☠️",
             "link": "/tag/emophase",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "381000000",
+              "views": "381900000",
               "challengeId": "441393",
               "challengeName": "emophase"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "2170935",
-            "type": 3,
-            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/cea9a47fddaf7c2f66daf618a0c03a5a",
-            "title": "#RoyalRumble",
-            "subTitle": "407.8M views",
-            "description": "The #RoyalRumble is finally here, so whether you're practicing your ring walk or just sharing your love for the WWE Universe, show us how you're getting in the #RoyalRumble spirit.",
-            "link": "/tag/RoyalRumble",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "407800000",
-              "challengeId": "2170935",
-              "challengeName": "RoyalRumble"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "27539",
-            "type": 3,
-            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f23329a69358424f0169f94d06294a1a",
-            "title": "#feelinggood",
-            "subTitle": "7.3B views",
-            "description": "Good vibes only.",
-            "link": "/tag/feelinggood",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "7300000000",
-              "challengeId": "27539",
-              "challengeName": "feelinggood"
             }
           },
           "videoList": []
