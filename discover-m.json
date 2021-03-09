@@ -144,7 +144,7 @@
           "cardItem": {
             "id": "170447429077598208",
             "type": 2,
-            "cover": "https://p16-sign-sg.tiktokcdn.com/musically-maliva-obj/1657268694828037~c5_100x100.jpeg?x-expires=1615399200&x-signature=KWCUtLj2GGxJ9stVEJOT3iHDARI%3D",
+            "cover": "https://p77-sign-sg.tiktokcdn.com/musically-maliva-obj/1657268694828037~c5_100x100.jpeg?x-expires=1615399200&x-signature=kd9Fh%2Fw614oPEWSlpvPVAqWLw9U%3D",
             "title": "Dua Lipa",
             "subTitle": "@dualipaofficial",
             "description": "",
@@ -454,7 +454,7 @@
             "extraInfo": {
               "verified": true,
               "fans": 13600000,
-              "likes": "53200000",
+              "likes": "53300000",
               "userId": "168541398546182144",
               "secUid": "MS4wLjABAAAAMTSBCxTaYvqbcRpT924iKILvChaXJEW2t8QEMK3s5NtXENf85cwPjT-biAUnsUfb",
               "relation": -1,
@@ -627,7 +627,7 @@
           "cardItem": {
             "id": "6761765948623045637",
             "type": 2,
-            "cover": "https://p77-sign-sg.tiktokcdn.com/musically-maliva-obj/1653252654031877~c5_100x100.jpeg?x-expires=1615399200&x-signature=T0WjeHDMU%2FpQqcXRHefnNucrl%2BI%3D",
+            "cover": "https://p16-sign-sg.tiktokcdn.com/musically-maliva-obj/1653252654031877~c5_100x100.jpeg?x-expires=1615399200&x-signature=wjBRwelBjE7h97tehNMCvo%2FKAxw%3D",
             "title": "JW Anderson",
             "subTitle": "@jw_anderson",
             "description": "#JWAnderson\nJW Anderson\nLondon Store - 2 Brewer Street, London W1F 0S",
@@ -637,7 +637,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 236500,
+              "fans": 236600,
               "likes": "380600",
               "userId": "6761765948623045637",
               "secUid": "MS4wLjABAAAA60vq51oxB9OlfiSMfihnGwklis95aYeAYGaufWZn5rOZ4n_zi0qjU476pl8VciIW",
@@ -706,18 +706,138 @@
       "exploreList": [
         {
           "cardItem": {
+            "id": "1686447115213830",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c3530b4a393d93957e593d8fd7acd94b",
+            "title": "#naturescereal",
+            "subTitle": "49.1M views",
+            "description": "Cereal, but made with fruit. Show us your own version of #NaturesCereal.",
+            "link": "/tag/naturescereal",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "49100000",
+              "challengeId": "1686447115213830",
+              "challengeName": "naturescereal"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "32721777",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/07b7c411971896614a559b9d2f83d55f",
+            "title": "#SabiasQue",
+            "subTitle": "5.8B views",
+            "description": "¿Sabías que...? Show us your favorite fact and aprende con TikTok.",
+            "link": "/tag/SabiasQue",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "5800000000",
+              "challengeId": "32721777",
+              "challengeName": "SabiasQue"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "35966191",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d6b289bfb1c54f6884b062c5b1d02e0f",
+            "title": "#thankstoher",
+            "subTitle": "115M views",
+            "description": "Supporting all the iconic rebels and role models in our own lives and the women who make a difference each and every day. Give #ThanksToHer.",
+            "link": "/tag/thankstoher",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "115000000",
+              "challengeId": "35966191",
+              "challengeName": "thankstoher"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "173153",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/eb15ff13e6a846746c7d87319e3dec1b",
+            "title": "#beautyhack",
+            "subTitle": "1B views",
+            "description": "Need a #BeautyHack? We've got you covered.",
+            "link": "/tag/beautyhack",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "1000000000",
+              "challengeId": "173153",
+              "challengeName": "beautyhack"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "5496575",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f5bfdb936386c257995e4a37bdb4f5b5",
+            "title": "#nbaallstar",
+            "subTitle": "315.6M views",
+            "description": "NBA All-Star is here and we want to hear from you! Tell us you’re an NBA Fan without telling us you’re an NBA Fan!",
+            "link": "/tag/nbaallstar",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "315600000",
+              "challengeId": "5496575",
+              "challengeName": "nbaallstar"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
+            "id": "68043064",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/70657381abd391b11c12c6aa0da54cc5",
+            "title": "#homediy",
+            "subTitle": "344.2M views",
+            "description": "Show us your #HomeDIY projects.",
+            "link": "/tag/homediy",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "344200000",
+              "challengeId": "68043064",
+              "challengeName": "homediy"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
             "id": "1607841952743426",
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4741f83fc0b36ba395bae40b4caaf4de",
             "title": "#foodontiktok",
-            "subTitle": "293.9M views",
+            "subTitle": "295.1M views",
             "description": "We're here for all the #FoodOnTikTok.",
             "link": "/tag/foodontiktok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "293900000",
+              "views": "295100000",
               "challengeId": "1607841952743426",
               "challengeName": "foodontiktok"
             }
@@ -740,166 +860,6 @@
               "views": "2300000000",
               "challengeId": "1635887",
               "challengeName": "ontherunway"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "41860",
-            "type": 3,
-            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ebecfea584fe94b5f95e6d455b8a15b7",
-            "title": "#dayandnight",
-            "subTitle": "396.5M views",
-            "description": "Turn off the lights and send us a message.",
-            "link": "/tag/dayandnight",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "396500000",
-              "challengeId": "41860",
-              "challengeName": "dayandnight"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "5841",
-            "type": 3,
-            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/012b33aa43bc023c5edefe8c6c4cdba6",
-            "title": "#Lifestyle",
-            "subTitle": "7.1B views",
-            "description": "Whether you're all about wellness or just living your best life, how are you living your dream #Lifestyle?",
-            "link": "/tag/Lifestyle",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "7100000000",
-              "challengeId": "5841",
-              "challengeName": "Lifestyle"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "1691554469828610",
-            "type": 3,
-            "cover": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/09fffb574c37ecc2cc397f4095ccd271",
-            "title": "#tiktokwildlifeday",
-            "subTitle": "1.1B views",
-            "description": "TikTok is celebrating World Wildlife Day 2021 with the United Nations Environment Programme, creators and other organizations.\n\nShare your support for wildlife protection, or use the official sticker to discover your &quot;wild animal match&quot; 🐘🦁️🦢🦏\n\nDon't forget to tune into the online safaris on TikTok LIVE, where we will be taking you on special tours of four South African Reserves.",
-            "link": "/tag/tiktokwildlifeday",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "1100000000",
-              "challengeId": "1691554469828610",
-              "challengeName": "tiktokwildlifeday"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "1623823712105477",
-            "type": 3,
-            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5ac2885c7d06b8b3c330bf443f15e5a0",
-            "title": "#thriftflip",
-            "subTitle": "1B views",
-            "description": "Whether you love second-hand shops or searching online, show us your best #ThriftFlip.",
-            "link": "/tag/thriftflip",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "1000000000",
-              "challengeId": "1623823712105477",
-              "challengeName": "thriftflip"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "9979233",
-            "type": 3,
-            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/585ffc9c5a7f59561b12c7140ed09e76",
-            "title": "#science101",
-            "subTitle": "233.4M views",
-            "description": "Science can be hard, but it doesn't need to be. Make science easy with #Science101.",
-            "link": "/tag/science101",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "233400000",
-              "challengeId": "9979233",
-              "challengeName": "science101"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "1692516867215366",
-            "type": 3,
-            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e4a2139459a1a44f3e878b8951fa5f0a",
-            "title": "#whenwomenwin",
-            "subTitle": "286.6M views",
-            "description": "From change-makers to innovators, here's to the power and strength of women leading movements towards progress across the world. We all win #WhenWomenWin.",
-            "link": "/tag/whenwomenwin",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "286600000",
-              "challengeId": "1692516867215366",
-              "challengeName": "whenwomenwin"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "23903531",
-            "type": 3,
-            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/798dbc4e2da3cfe09ec79632a3d72a4c",
-            "title": "#glasspainting",
-            "subTitle": "617.1M views",
-            "description": "Calling all artists! Show us your #GlassPainting.",
-            "link": "/tag/glasspainting",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "617100000",
-              "challengeId": "23903531",
-              "challengeName": "glasspainting"
-            }
-          },
-          "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "60336197",
-            "type": 3,
-            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ce9ace3b9617d127c3532861de9318f5",
-            "title": "#seitan",
-            "subTitle": "275.7M views",
-            "description": "All you need is flour and water, so get cooking with #Seitan.",
-            "link": "/tag/seitan",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "275700000",
-              "challengeId": "60336197",
-              "challengeName": "seitan"
             }
           },
           "videoList": []
@@ -1054,7 +1014,7 @@
             "type": 1,
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/a8daea644fa540ff8a8c3025834f8c31.jpeg",
             "title": "Mr. Blue Sky",
-            "subTitle": "579.6K videos",
+            "subTitle": "579.5K videos",
             "description": "Electric Light Orchestra",
             "link": "/music/Mr-Blue-Sky-6754420279457565445",
             "round": false,
@@ -1065,7 +1025,7 @@
               "playUrl": [
                 "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/72bc6715e0b6726f3806f1bce1b0630f.mp3"
               ],
-              "posts": 579600
+              "posts": 579500
             }
           },
           "videoList": []
