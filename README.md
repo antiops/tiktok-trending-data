@@ -1,4 +1,5 @@
 # tiktok-discovery-api-history
+### `Disabled because TikTok now has captchas preventing collection of open trending data`
 
 This repo scrapes TikToks Web API automatically using GitHub Actions and monitors changes to its discovery endpoint on 3 different subdomains.
 
