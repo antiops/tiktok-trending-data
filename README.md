@@ -1,6 +1,4 @@
 # tiktok-discovery-api-history
-### `Disabled because TikTok now has captchas preventing collection of open trending data`
-
 This repo scrapes TikToks Web API automatically using GitHub Actions and monitors changes to its discovery endpoint on 3 different subdomains.
 
 All pages are downloaded as JSON and prettyfied with jq. A commit is made whenever a change is detected and all changes can be viewed throughout the commit history.
@@ -12,3 +10,8 @@ All pages are downloaded as JSON and prettyfied with jq. A commit is made whenev
 
 ## Improvements: 
  - ignore covers or just remove signature from their urls. Its not constant
+
+---
+**History:**
+- `12/19/2021`: Re-enabled the workflow, test run returned good data
+- `03/20/2021`: Disabled because TikTok now has captchas preventing collection of open trending data
