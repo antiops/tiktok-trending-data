@@ -80,14 +80,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 51200000,
-              "likes": "287200000",
+              "likes": "287300000",
               "userId": "6745191554350760966",
               "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
               "relation": -1,
               "roomId": "",
               "video": 71,
               "following": 3,
-              "heart": "287200000",
+              "heart": "287300000",
               "digg": 12
             }
           }
@@ -242,14 +242,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 31400000,
-              "likes": "467600000",
+              "likes": "467700000",
               "userId": "6747935906352907269",
               "secUid": "MS4wLjABAAAAv3zolJLlWp-WbKXqSZwVSflDdwcbjPADRG-dhb68k30dQjkFpkRs4HiMvWeeIyVv",
               "relation": -1,
               "roomId": "",
               "video": 252,
               "following": 400,
-              "heart": "467600000",
+              "heart": "467700000",
               "digg": 432
             }
           }
@@ -828,18 +828,38 @@
         },
         {
           "cardItem": {
+            "id": "1334984",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7e767476ac77e95e4f31b0dac9e53edb.jpeg",
+            "title": "#diyproject",
+            "subTitle": "10.3B views",
+            "description": "From start to finish, show us your latest #DIYProject.",
+            "link": "/tag/diyproject",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": "10300000000",
+              "challengeId": "1334984",
+              "challengeName": "diyproject"
+            }
+          },
+          "videoList": []
+        },
+        {
+          "cardItem": {
             "id": "31011076",
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/01f43a92d82a43cccc21d20c62b53922.png",
             "title": "#fashionforyou",
-            "subTitle": "719M views",
+            "subTitle": "719.7M views",
             "description": "Whether you're thrifting for the perfect look or going for something couture, fashion is fashion. So whatever aesthetic you embrace, join the community and show us your style. Here's some #FashionForYou.",
             "link": "/tag/fashionforyou",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "719000000",
+              "views": "719700000",
               "challengeId": "31011076",
               "challengeName": "fashionforyou"
             }
@@ -952,14 +972,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fae9ca0f044a8181ce8d658e31e9861d.png",
             "title": "#fitnesstok",
-            "subTitle": "576.5M views",
+            "subTitle": "577M views",
             "description": "Whether you're hitting the gym or hitting the trails, join #FitnessTok.",
             "link": "/tag/fitnesstok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": "576500000",
+              "views": "577000000",
               "challengeId": "1637108186746886",
               "challengeName": "fitnesstok"
             }
@@ -985,26 +1005,6 @@
             }
           },
           "videoList": []
-        },
-        {
-          "cardItem": {
-            "id": "48270",
-            "type": 3,
-            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e573bc3eb3d78f3d4f28b830c4b69a5c.jpeg",
-            "title": "#workfromhome",
-            "subTitle": "8.7B views",
-            "description": "Whether you're working from bed, or just perfecting your routine, here's to the #WorkFromHome crowd.",
-            "link": "/tag/workfromhome",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": "8700000000",
-              "challengeId": "48270",
-              "challengeName": "workfromhome"
-            }
-          },
-          "videoList": []
         }
       ]
     },
@@ -1024,7 +1024,7 @@
             "type": 1,
             "cover": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/c0afa4f7fcb048e3828faf98843b5127~c5_100x100.jpeg",
             "title": "Che La Luna",
-            "subTitle": "592.8K videos",
+            "subTitle": "593.1K videos",
             "description": "Louis Prima",
             "link": "/music/Che-La-Luna-6729959230851254274",
             "round": false,
@@ -1035,7 +1035,7 @@
               "playUrl": [
                 "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/1de1f9fae2d74986b60bc778451b18c5"
               ],
-              "posts": 592800
+              "posts": 593100
             }
           },
           "videoList": []
@@ -1046,7 +1046,7 @@
             "type": 1,
             "cover": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/c050137e41154f839206cbc0b7865f70~c5_100x100.jpeg",
             "title": "emo girl",
-            "subTitle": "135K videos",
+            "subTitle": "135.6K videos",
             "description": "Machine Gun Kelly & WILLOW",
             "link": "/music/emo-girl-7059988234704521217",
             "round": false,
@@ -1057,7 +1057,7 @@
               "playUrl": [
                 "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/6c2bab70ba744ac29edb95bd5420e34c"
               ],
-              "posts": 135000
+              "posts": 135600
             }
           },
           "videoList": []
@@ -1134,7 +1134,7 @@
             "type": 1,
             "cover": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/80cd5e04fd2847e1aadee31f78530337~c5_100x100.jpeg",
             "title": "Major Bag Alert (feat. Migos)",
-            "subTitle": "391.3K videos",
+            "subTitle": "391.4K videos",
             "description": "DJ Khaled",
             "link": "/music/Major-Bag-Alert-feat-Migos-244299071803244544",
             "round": false,
@@ -1145,7 +1145,7 @@
               "playUrl": [
                 "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/026c7ec5ed224d0684619c6c316471c0"
               ],
-              "posts": 391300
+              "posts": 391400
             }
           },
           "videoList": []
@@ -1200,7 +1200,7 @@
             "type": 1,
             "cover": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/1769c346bed6474bb27cd9baf69e553c~c5_100x100.jpeg",
             "title": "Miel",
-            "subTitle": "658.7K videos",
+            "subTitle": "658.9K videos",
             "description": "Lauri Garcia",
             "link": "/music/Miel-7052051267685927727",
             "round": false,
@@ -1211,7 +1211,7 @@
               "playUrl": [
                 "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/51ea42c601754121b9cc06f946da887a"
               ],
-              "posts": 658700
+              "posts": 658900
             }
           },
           "videoList": []
