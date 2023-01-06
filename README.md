@@ -13,5 +13,6 @@ All pages are downloaded as JSON and prettyfied with jq. A commit is made whenev
 
 ---
 **History:**
+- `01/06/2023`: scrape machine broke
 - `12/19/2021`: Re-enabled the workflow, test run returned good data
 - `03/20/2021`: Disabled because TikTok now has captchas preventing collection of open trending data
