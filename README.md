@@ -13,6 +13,7 @@ All pages are downloaded as JSON and prettyfied with jq. A commit is made whenev
 
 ---
 **History:**
+- `05/22/2023`: Use API params that return more data and 1080p videos
 - `05/19/2023`: Re-enabled. Updated domains and added API feed
 - `01/06/2023`: scrape machine broke
 - `12/19/2021`: Re-enabled the workflow, test run returned good data
