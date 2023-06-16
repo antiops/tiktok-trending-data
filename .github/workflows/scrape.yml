@@ -19,6 +19,8 @@ jobs:
         curl -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15' https://us.tiktok.com/node/share/discover | jq . > discover-us.json
         curl -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15' https://www.tiktok.com/node/share/discover/list | jq . > discover-list-www.json
         curl -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15' https://us.tiktok.com/node/share/discover/list | jq . > discover-list-us.json
+        curl -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15' https://tikfinity.zerody.one/api/getLiveChannels | jq .liveChannels > live-channels.json
+        curl -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15' "https://tikfinity.zerody.one/api/getAllGifts?app_language=en-US&browser_language=en&priority_region=US&region=US&webcast_language=en-US" | jq . > live-gift-details.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "TikTok Trending"
