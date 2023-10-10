@@ -70,13 +70,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 38300000,
-              "likes": 256800000,
+              "likes": 256900000,
               "userId": "168541398546182144",
               "secUid": "MS4wLjABAAAAMTSBCxTaYvqbcRpT924iKILvChaXJEW2t8QEMK3s5NtXENf85cwPjT-biAUnsUfb",
               "relation": 0,
               "video": 251,
               "following": 60,
-              "heart": 256800000,
+              "heart": 256900000,
               "digg": 2581
             }
           }
@@ -122,14 +122,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 19100000,
-              "likes": 124500000,
+              "likes": 124700000,
               "userId": "224891697648857088",
               "secUid": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
               "relation": 0,
               "video": 217,
               "following": 4,
-              "heart": 124500000,
-              "digg": 8433
+              "heart": 124700000,
+              "digg": 8466
             }
           }
         },
@@ -174,14 +174,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 59500000,
-              "likes": 613900000,
+              "likes": 614200000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": 0,
-              "video": 199,
+              "video": 200,
               "following": 73,
-              "heart": 613900000,
-              "digg": 2078
+              "heart": 614200000,
+              "digg": 2077
             }
           }
         },
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "7050076999289521158",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1697097600&x-signature=6a6p84tepBFjWmCYgw%2BV98%2Fn7Zc%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1697097600&x-signature=UQ1JozDxw8k8sdX21FtnEzykkVA%3D",
             "title": "Justin Timberlake",
             "subTitle": "@justintimberlake",
             "description": "Jessica Biel’s boyfriend",
@@ -421,32 +421,6 @@
         },
         {
           "cardItem": {
-            "id": "141140993138962432",
-            "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1697097600&x-signature=Lmw%2Bgl7FYei4IcHEdTQrXZ1ruCg%3D",
-            "title": "Post Malone",
-            "subTitle": "@postmalone",
-            "description": "AUSTIN 🩵🍻",
-            "link": "/@postmalone",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 15300000,
-              "likes": 128300000,
-              "userId": "141140993138962432",
-              "secUid": "MS4wLjABAAAAIAXBSn6tARIqrHDAQM32h-AzSL8yqTbXrZE2HlhpxyctXIAxoYUlBfhmqe-jyzVf",
-              "relation": 0,
-              "video": 223,
-              "following": 35,
-              "heart": 128300000,
-              "digg": 421
-            }
-          }
-        },
-        {
-          "cardItem": {
             "id": "126223816648822784",
             "type": 2,
             "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1697097600&x-signature=rF77IxKOgKP%2Bq8Bbe1hAZGagaJo%3D",
@@ -468,6 +442,32 @@
               "following": 73,
               "heart": 109800000,
               "digg": 135
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "141140993138962432",
+            "type": 2,
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1697097600&x-signature=9PrreeCdYNL5ymIn0WoXLAjk6Wc%3D",
+            "title": "Post Malone",
+            "subTitle": "@postmalone",
+            "description": "AUSTIN 🩵🍻",
+            "link": "/@postmalone",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 15300000,
+              "likes": 128300000,
+              "userId": "141140993138962432",
+              "secUid": "MS4wLjABAAAAIAXBSn6tARIqrHDAQM32h-AzSL8yqTbXrZE2HlhpxyctXIAxoYUlBfhmqe-jyzVf",
+              "relation": 0,
+              "video": 223,
+              "following": 35,
+              "heart": 128300000,
+              "digg": 421
             }
           }
         },
@@ -499,27 +499,27 @@
         },
         {
           "cardItem": {
-            "id": "14388294",
+            "id": "6719942663279739909",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1697097600&x-signature=EEugals4Zc9RUqCTpk77bEcWihY%3D",
-            "title": "ShaqDieselONeal",
-            "subTitle": "@shaq",
-            "description": "",
-            "link": "/@shaq",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cdc5acfcf0b2a53e23b8dbc2b29043d0~c5_100x100.jpeg?x-expires=1697097600&x-signature=1KK1gr1I4rAs30tgSPkPU1VBZL0%3D",
+            "title": "Mariah Carey",
+            "subTitle": "@mariahcarey",
+            "description": "Welcome to the Adventures of Mimi, dahhlings!",
+            "link": "/@mariahcarey",
             "round": true,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 12300000,
-              "likes": 57000000,
-              "userId": "14388294",
-              "secUid": "MS4wLjABAAAAauJ1e2TsqOgIMGB3UCy6cLfc-HzFQDfyxzTeBVJvUOI",
+              "fans": 8700000,
+              "likes": 62400000,
+              "userId": "6719942663279739909",
+              "secUid": "MS4wLjABAAAAmjzSM_FdNtE8lPL1gxsZmvZJ2cvCEwdt1d8aN9WJ9_8AtWeVhaGEpyoY1oIcaYJt",
               "relation": 0,
-              "video": 192,
-              "following": 254,
-              "heart": 57000000,
-              "digg": 508
+              "video": 84,
+              "following": 20,
+              "heart": 62400000,
+              "digg": 203
             }
           }
         },
@@ -551,27 +551,27 @@
         },
         {
           "cardItem": {
-            "id": "6719942663279739909",
+            "id": "14388294",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cdc5acfcf0b2a53e23b8dbc2b29043d0~c5_100x100.jpeg?x-expires=1697097600&x-signature=1KK1gr1I4rAs30tgSPkPU1VBZL0%3D",
-            "title": "Mariah Carey",
-            "subTitle": "@mariahcarey",
-            "description": "Welcome to the Adventures of Mimi, dahhlings!",
-            "link": "/@mariahcarey",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1697097600&x-signature=EEugals4Zc9RUqCTpk77bEcWihY%3D",
+            "title": "ShaqDieselONeal",
+            "subTitle": "@shaq",
+            "description": "",
+            "link": "/@shaq",
             "round": true,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 8700000,
-              "likes": 62400000,
-              "userId": "6719942663279739909",
-              "secUid": "MS4wLjABAAAAmjzSM_FdNtE8lPL1gxsZmvZJ2cvCEwdt1d8aN9WJ9_8AtWeVhaGEpyoY1oIcaYJt",
+              "fans": 12300000,
+              "likes": 57000000,
+              "userId": "14388294",
+              "secUid": "MS4wLjABAAAAauJ1e2TsqOgIMGB3UCy6cLfc-HzFQDfyxzTeBVJvUOI",
               "relation": 0,
-              "video": 84,
-              "following": 20,
-              "heart": 62400000,
-              "digg": 203
+              "video": 192,
+              "following": 254,
+              "heart": 57000000,
+              "digg": 508
             }
           }
         },
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1697097600&x-signature=ZgEV8kYYNQkZvlMhDlaacnNcV8g%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1697097600&x-signature=lmvtGbt74Xt0JcxYfrm0cn%2F2JTU%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "6771955742204707845",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/131f3b14b134fee9be7715f5a1cff28c~c5_100x100.jpeg?x-expires=1697097600&x-signature=5%2BovCXlAgbZwLTSIORvuS%2B8KHSQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/131f3b14b134fee9be7715f5a1cff28c~c5_100x100.jpeg?x-expires=1697097600&x-signature=gB2yw3SVlULIeRszgX0dzLo5Rw8%3D",
             "title": "Christina Aguilera",
             "subTitle": "@xtina",
             "description": "",
@@ -759,27 +759,27 @@
         },
         {
           "cardItem": {
-            "id": "85228440332730368",
+            "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1697097600&x-signature=o%2BGn2wSZ14HF3uGYKhdxwO1RxYc%3D",
-            "title": "daddyyankee",
-            "subTitle": "@daddyyankee",
-            "description": "New music #BEACHY🏝☀️👙",
-            "link": "/@daddyyankee",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1697097600&x-signature=oG6lu4TIFpz5%2BY%2BiXvh21hsXj5M%3D",
+            "title": "Steve Harvey",
+            "subTitle": "@steveharvey",
+            "description": "It’s your man here, now let imagination lead the way.",
+            "link": "/@steveharvey",
             "round": true,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 14800000,
-              "likes": 64200000,
-              "userId": "85228440332730368",
-              "secUid": "MS4wLjABAAAAtBGdHy8_cZCxKRqL4b8y_Lai6He42r3Aqe3xEmaU-ANTnQRK2h-y1xB_xy2z-GE2",
+              "fans": 12700000,
+              "likes": 102500000,
+              "userId": "6653097460997521414",
+              "secUid": "MS4wLjABAAAALoMs_1FxFHHnkPE6B8ZjTGsca2zm60Xi_xW1qRt6duyJllmKfA1O0gxgn7UtySfz",
               "relation": 0,
-              "video": 79,
-              "following": 11,
-              "heart": 64200000,
-              "digg": 3596
+              "video": 208,
+              "following": 41,
+              "heart": 102500000,
+              "digg": 1536
             }
           }
         }
