@@ -3042,58 +3042,6 @@
     "source": 1
   },
   {
-    "id": 15346,
-    "name": "LIVE Ranking Medal",
-    "describe": "sent LIVE Ranking Medal",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9ce671a4ecbb625698d9da3e1d86dd70.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15345,
-    "name": "Movie Time",
-    "describe": "sent Movie Time",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/793457ca3c8e8c4c492d870e040458df.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15351,
-    "name": "Stitch",
-    "describe": "sent Stitch",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/56f36dc7e7b1adf410aa98c90b5dd88d.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 15348,
-    "name": "Hawaiian Lei",
-    "describe": "sent Hawaiian Lei",
-    "diamond_count": 299,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/91baf7a414a9ba7fe48cdf990330632b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 4,
-    "source": 1
-  },
-  {
     "id": 15347,
     "name": "Mischievous Stitch",
     "describe": "sent Mischievous Stitch",
@@ -3114,6 +3062,58 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15346,
+    "name": "LIVE Ranking Medal",
+    "describe": "sent LIVE Ranking Medal",
+    "diamond_count": 2999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9ce671a4ecbb625698d9da3e1d86dd70.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15348,
+    "name": "Hawaiian Lei",
+    "describe": "sent Hawaiian Lei",
+    "diamond_count": 299,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/91baf7a414a9ba7fe48cdf990330632b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
+    "source": 1
+  },
+  {
+    "id": 15351,
+    "name": "Stitch",
+    "describe": "sent Stitch",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/56f36dc7e7b1adf410aa98c90b5dd88d.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 15345,
+    "name": "Movie Time",
+    "describe": "sent Movie Time",
+    "diamond_count": 15000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/793457ca3c8e8c4c492d870e040458df.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -4732,19 +4732,6 @@
     "source": 2
   },
   {
-    "id": 8268,
-    "name": "Good Night",
-    "describe": "sent Good Night",
-    "diamond_count": 399,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/b7b55087141bd5f965eb31a99a5f157b~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
     "id": 15181,
     "name": "Nice To Meet You",
     "describe": "sent Nice To Meet You",
@@ -5545,6 +5532,71 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/0ee44135b8db23bbb9507cadbf51959f.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 2
+  },
+  {
+    "id": 15597,
+    "name": "Summer 2025",
+    "describe": "sent Summer 2025",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/dbf7b507b8dd3de081cd1ff0e81c810e.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 10867,
+    "name": "Gamebow",
+    "describe": "sent Gamebow",
+    "diamond_count": 299,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/119f2635d46aafafcfef5506455d2122.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 2
+  },
+  {
+    "id": 15595,
+    "name": "Summer Sun",
+    "describe": "sent Summer Sun",
+    "diamond_count": 20,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/490c8a378e4d24abb9e8c69cb93827a6.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 15596,
+    "name": "Summer of LIVE",
+    "describe": "sent Summer of LIVE",
+    "diamond_count": 500,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/51c74e7b61cbdd9d42dabd779b8de16b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 2
+  },
+  {
+    "id": 8268,
+    "name": "Good Night",
+    "describe": "sent Good Night",
+    "diamond_count": 399,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/b7b55087141bd5f965eb31a99a5f157b~tplv-obj.webp"
       ]
     },
     "type": 2,
