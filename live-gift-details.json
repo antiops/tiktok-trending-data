@@ -3133,16 +3133,16 @@
     "source": 1
   },
   {
-    "id": 15348,
-    "name": "Hawaiian Lei",
-    "describe": "sent Hawaiian Lei",
-    "diamond_count": 299,
+    "id": 15346,
+    "name": "LIVE Ranking Medal",
+    "describe": "sent LIVE Ranking Medal",
+    "diamond_count": 2999,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/91baf7a414a9ba7fe48cdf990330632b.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9ce671a4ecbb625698d9da3e1d86dd70.png~tplv-obj.webp"
       ]
     },
-    "type": 4,
+    "type": 2,
     "source": 1
   },
   {
@@ -3153,19 +3153,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/6ee2fb724fd8ec341460187d3e182009.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15346,
-    "name": "LIVE Ranking Medal",
-    "describe": "sent LIVE Ranking Medal",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9ce671a4ecbb625698d9da3e1d86dd70.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -3208,6 +3195,19 @@
       ]
     },
     "type": 1,
+    "source": 1
+  },
+  {
+    "id": 15348,
+    "name": "Hawaiian Lei",
+    "describe": "sent Hawaiian Lei",
+    "diamond_count": 299,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/91baf7a414a9ba7fe48cdf990330632b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
     "source": 1
   },
   {
@@ -4784,19 +4784,6 @@
     "source": 2
   },
   {
-    "id": 7575,
-    "name": "Airdrop Box",
-    "describe": "sent Airdrop Box",
-    "diamond_count": 999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/f3ba99d445e49bbf7f7af4db9e3be506~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
     "id": 14963,
     "name": "Space Dog",
     "describe": "sent Space Dog",
@@ -5701,6 +5688,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/bff3b908c4dd9cf19ab431cc99dc7940~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 2
+  },
+  {
+    "id": 7575,
+    "name": "Airdrop Box",
+    "describe": "sent Airdrop Box",
+    "diamond_count": 999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/f3ba99d445e49bbf7f7af4db9e3be506~tplv-obj.webp"
       ]
     },
     "type": 2,
