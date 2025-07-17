@@ -3653,58 +3653,6 @@
     "source": 1
   },
   {
-    "id": 14703,
-    "name": "Storm Blade",
-    "describe": "sent Storm Blade",
-    "diamond_count": 14999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f72f97727e8dc53335195ffb2f937f9b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15351,
-    "name": "Stitch",
-    "describe": "sent Stitch",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/56f36dc7e7b1adf410aa98c90b5dd88d.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 14705,
-    "name": "Valerian's Oath",
-    "describe": "sent Valerian's Oath",
-    "diamond_count": 43999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7361362b799f7b18ccb48467cae642af.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15345,
-    "name": "Movie Time",
-    "describe": "sent Movie Time",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/793457ca3c8e8c4c492d870e040458df.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 15079,
     "name": "Community Fest",
     "describe": "sent Community Fest",
@@ -3731,16 +3679,16 @@
     "source": 1
   },
   {
-    "id": 15081,
-    "name": "Jollie's Community",
-    "describe": "sent Jollie's Community",
-    "diamond_count": 399,
+    "id": 15345,
+    "name": "Movie Time",
+    "describe": "sent Movie Time",
+    "diamond_count": 15000,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d0278907a72d63416317eb71ce2ed830.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/793457ca3c8e8c4c492d870e040458df.png~tplv-obj.webp"
       ]
     },
-    "type": 4,
+    "type": 2,
     "source": 1
   },
   {
@@ -3757,42 +3705,29 @@
     "source": 1
   },
   {
-    "id": 15080,
-    "name": "Community Crown",
-    "describe": "sent Community Crown",
-    "diamond_count": 99,
+    "id": 15351,
+    "name": "Stitch",
+    "describe": "sent Stitch",
+    "diamond_count": 10,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/957b298a62e13fc4bc6d463d728d6564.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/56f36dc7e7b1adf410aa98c90b5dd88d.png~tplv-obj.webp"
       ]
     },
-    "type": 4,
+    "type": 1,
     "source": 1
   },
   {
-    "id": 15348,
-    "name": "Hawaiian Lei",
-    "describe": "sent Hawaiian Lei",
-    "diamond_count": 299,
+    "id": 15081,
+    "name": "Jollie's Community",
+    "describe": "sent Jollie's Community",
+    "diamond_count": 399,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/91baf7a414a9ba7fe48cdf990330632b.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d0278907a72d63416317eb71ce2ed830.png~tplv-obj.webp"
       ]
     },
     "type": 4,
-    "source": 1
-  },
-  {
-    "id": 15082,
-    "name": "Community Celebration",
-    "describe": "sent Community Celebration",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/14fad469dfc49a552920c593191bfba5.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
     "source": 1
   },
   {
@@ -3809,6 +3744,19 @@
     "source": 1
   },
   {
+    "id": 15348,
+    "name": "Hawaiian Lei",
+    "describe": "sent Hawaiian Lei",
+    "diamond_count": 299,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/91baf7a414a9ba7fe48cdf990330632b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
+    "source": 1
+  },
+  {
     "id": 15346,
     "name": "LIVE Ranking Medal",
     "describe": "sent LIVE Ranking Medal",
@@ -3819,6 +3767,58 @@
       ]
     },
     "type": 2,
+    "source": 1
+  },
+  {
+    "id": 14705,
+    "name": "Valerian's Oath",
+    "describe": "sent Valerian's Oath",
+    "diamond_count": 43999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7361362b799f7b18ccb48467cae642af.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15082,
+    "name": "Community Celebration",
+    "describe": "sent Community Celebration",
+    "diamond_count": 2999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/14fad469dfc49a552920c593191bfba5.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 14703,
+    "name": "Storm Blade",
+    "describe": "sent Storm Blade",
+    "diamond_count": 14999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f72f97727e8dc53335195ffb2f937f9b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15080,
+    "name": "Community Crown",
+    "describe": "sent Community Crown",
+    "diamond_count": 99,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/957b298a62e13fc4bc6d463d728d6564.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
     "source": 1
   },
   {
@@ -4940,19 +4940,6 @@
     "source": 2
   },
   {
-    "id": 10590,
-    "name": "Hot Air Balloon",
-    "describe": "sent Hot Air Balloon",
-    "diamond_count": 999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/dcdf999c463e424f1a88968189b0825a.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
     "id": 7569,
     "name": "Game Controller",
     "describe": "sent Game Controller",
@@ -5961,6 +5948,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f7914d5e93a75da4b32d5c9f08e6ade6.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 2
+  },
+  {
+    "id": 10590,
+    "name": "Hot Air Balloon",
+    "describe": "sent Hot Air Balloon",
+    "diamond_count": 999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/dcdf999c463e424f1a88968189b0825a.png~tplv-obj.webp"
       ]
     },
     "type": 2,
